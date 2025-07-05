@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ddltn-raindrop-mcp-python-badge.png)](https://mseep.ai/app/ddltn-raindrop-mcp-python)
+
 # Raindrop MCP Server
 
 This is a Model Context Protocol (MCP) server for Raindrop.io powered by the [Python MCP SDK](https://github.com/modelcontextprotocol/python-sdk/tree/main). It provides an easy way to read and update your bookmarks from the Raindrop personal knowledge management system in simple, human language. This can be paired with the [Firecrawl MCP server](https://github.com/mendableai/firecrawl-mcp-server#) to read the URLs associated with your bookmarks and classify them accordingly.
